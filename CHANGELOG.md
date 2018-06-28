@@ -1,3 +1,7 @@
+## 2.4.2-cb (June 26, 2018)
+
+* Add support for custom headers, cherry picked from master branch v2.5.1
+
 ## 2.4.2 (Oct 20, 2016)
 
 * Relax `json` dependency for users of Ruby 2.0.0 onwards to allow a much wider range of versions (@timrogers, with thanks to @ccutrer and @janraasch)
